@@ -1,6 +1,8 @@
 # kmdata
 A curated database of reconstructed individual patient-level data from 153 oncology clinical trials Use kmdata With (In) R Software
 
+https://www.youtube.com/watch?v=AfUx_EdLGIA
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
